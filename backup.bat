@@ -1,8 +1,8 @@
 @echo off
+echo https://github.com/SonicCreator/chatbot/
 goto loop
 
 :loop
 node bot.js
-echo Bot stopped, Restarting.
-echo Please tell forevertoo. (He will try to fix the code.)
+echo Bot crashed, Restarting the bot...
 goto loop
