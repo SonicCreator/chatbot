@@ -13,3 +13,9 @@ You can also run the bot in the terminal, do this command :
 `node bot.js`
 
 (Remember to be in the bot file using the cd command)
+
+# copyright
+
+© forevertoo
+
+You may not DMCA this because i had the authorization of the owner of the new code of controlmybot.
