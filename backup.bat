@@ -1,5 +1,5 @@
 @echo off
-echo https://github.com/SonicCreator/chatbot/
+echo (c) forevertoo
 goto loop
 
 :loop
