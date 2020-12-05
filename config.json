@@ -1,0 +1,11 @@
+{
+    "domain": "https://cmpc.live",
+    "channels": [
+        "controlmypc",
+        "controlmybot"
+    ],
+    "auth": {
+        "username": "controlmybot",
+        "token": "oauth:put_your_token_here"
+    }
+}

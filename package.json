@@ -1,0 +1,24 @@
+{
+  "name": "controlmybot",
+  "version": "1.0.0",
+  "description": "controlmypc's official Twitch bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/controlmybot"
+  },
+  "license": "GNU 3.0",
+  "keywords": [
+    "twitch",
+    "chatbots",
+    "irc"
+  ]
+}
