@@ -1,3 +1,6 @@
+// © forevertoo
+
+
 // The bot starts to run.
 console.info("done")
 
