@@ -3,10 +3,9 @@ console.info("done")
 
 // Log Copyright notice
 console.info("----------------------------------------------------");
-console.info("           CONTROLMYBOT                             ");
-console.info("           https://cmpc.live                        ");
+console.info("           TWITCHAT                                 ");
 console.info("           © 2020 forevertoo                        ");
-console.info("           credits to controlmypc                   ");
+console.info("           credits to controlmypc for controlmybot original code");
 console.info("----------------------------------------------------");
 const tmi = require('tmi.js');
 // Configuration
