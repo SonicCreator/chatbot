@@ -2,10 +2,10 @@
     "domain": "https://cmpc.live",
     "channels": [
         "controlmypc",
-        "controlmybot"
+        "forevertoo"
     ],
     "auth": {
-        "username": "controlmybot",
+        "username": "OurGlitch",
         "token": "oauth:put_your_token_here"
     }
 }
