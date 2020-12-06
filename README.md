@@ -1,4 +1,4 @@
-# controlmybot
+# TWITCHAT
 
 We first need Node.JS, it includes npm with it, (we need it too for the next step.). [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
