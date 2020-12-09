@@ -45,9 +45,9 @@ function onMessageHandler (target, context, msg, self) {
     console.log("PogChamp");
   }
 
-    if (commandNameraw === 'pog') {
-    client.say(target, `PogChamp`);
-    console.log("pog");
+    if (commandNameraw === '@OurGlitch') {
+    client.say(target, `Heya !`);
+    console.log("@OurGlitch");
   }
   
  }
@@ -57,5 +57,5 @@ function onConnectedHandler (addr, port) {
   console.log(`* Connected to ${addr}:${port}`);
 
   // tell in the channel that we are on since why not
-  client.say('controlmypc', `chatbot connected.`);
+  client.say('OurGlitch', `chatbot connected.`);
 }
