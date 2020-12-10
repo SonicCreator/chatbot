@@ -1,3 +1,4 @@
+// TWITCHAT
 // © forevertoo
 
 
@@ -48,6 +49,11 @@ function onMessageHandler (target, context, msg, self) {
     if (commandNameraw === '@OurGlitch') {
     client.say(target, `Heya !`);
     console.log("@OurGlitch");
+  }
+  
+    if (commandNameraw === 'RaccAttack') {
+    client.say(target, `RaccAttack`);
+    console.log("RaccAttack");
   }
   
  }
