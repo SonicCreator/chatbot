@@ -17,18 +17,15 @@ You can also run the bot in the terminal, do this command :
 # copyright
 
 © forevertoo
-
-You may not DMCA this because i had the authorization of the owner of the new code of controlmybot.
-
-# source code
-
-You may not use in anyway the source code of TWITCHAT also known on GitHub as chatbot.
+</br>
+</br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 # F.A.Q.
 
 - How can i use this ?
 
-You should contact me at info.forevertoo@gmail.com :)
+You can follow the license in the copyright part of this file and that's it.
 
 - Can i help ?
 
@@ -37,7 +34,3 @@ Sure ! You can also open issues of bugs on the bot on GitHub !
 - What was this for ?
 
 At first i made this for an Twitch channel as the name of controlmybot.
-
-- Why should i not DMCA you for the copy of controlmybot ?
-
-Because i made the original code and i got the authorization of the copyright holder of the modifications made to my bot. I have all rights on TWITCHAT.
